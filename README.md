@@ -65,33 +65,33 @@ The **Photography Club** project is a web-based platform designed for photograph
 - Option to delete photos.
 ![Photo Management](https://github.com/Riajul-56/Photography_Club/blob/main/Upload.png)
 
-### **2. Photo Management**:
+### **3. About Section**:
 
-- Ability to upload photos with validation on file type and size.
-- Photo categorization (e.g., nature, street, portrait) and editing of photo details.
-- Option to delete photos.
+- The Photography Club is a community-driven platform where photographers can share their work, join events, and participate in creative challenges.  
+- Our mission is to inspire and connect photography enthusiasts through workshops, photo walks, and exhibitions.  
+- The platform allows members to upload photos, explore galleries, and engage with a supportive creative community.
 ![Photo Management](https://github.com/arup-ratan-dey/photography-club/blob/main/about.png)
 
-### **3. Event Management**:
+### **4. Event Management**:
 
 - Users can view upcoming events and participate in them.
 - Event details page showing participants and uploaded event photos.
 - Event registration system to allow users to register for events.
 ![Event Management](https://github.com/Riajul-56/Photography_Club/blob/main/Event.png)
 
-### **4. Photo Gallery**:
+### **5. Photo Gallery**:
 
 - Search functionality to filter photos based on title or description.
 - Category filters for easy navigation of photos by type (nature, portrait, etc.).
  ![Photo Gallery](https://github.com/Riajul-56/Photography_Club/blob/main/Gallary.png)
 
-### **5. Dashboard**:
+### **6. Dashboard**:
 
 - User dashboard displaying their uploaded photos and events they have participated in.
 - Stats section showing the number of photos uploaded and events attended.
 ![Dashboard](https://github.com/Riajul-56/Photography_Club/blob/main/Dashboard.png)
 
-### **6. Responsive Design**:
+### **7. Responsive Design**:
 
 - Mobile-friendly design for seamless access on various screen sizes.
 ![Responsive Design](https://github.com/Riajul-56/Photography_Club/blob/main/Responsive.png)
