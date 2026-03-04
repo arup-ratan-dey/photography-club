@@ -65,6 +65,13 @@ The **Photography Club** project is a web-based platform designed for photograph
 - Option to delete photos.
 ![Photo Management](https://github.com/Riajul-56/Photography_Club/blob/main/Upload.png)
 
+### **2. Photo Management**:
+
+- Ability to upload photos with validation on file type and size.
+- Photo categorization (e.g., nature, street, portrait) and editing of photo details.
+- Option to delete photos.
+![Photo Management](https://github.com/arup-ratan-dey/photography-club/blob/main/about.png)
+
 ### **3. Event Management**:
 
 - Users can view upcoming events and participate in them.
