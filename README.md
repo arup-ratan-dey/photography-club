@@ -100,7 +100,7 @@ The **Photography Club** project is a web-based platform designed for photograph
 
 ## **Video Link**:
 
-[Watch the video demonstration of the project here](https://drive.google.com/file/d/1JVCQQYrSAP5pzDXAlsG32EAeIwgE0yO2/view?usp=drive_link)
+[Watch the video demonstration of the project here](https://drive.google.com/file/d/1hnXqVbK8JEoj4MzmjhyPMoEQNQB5pfXg/view?usp=drivesdk)
 
 The video will showcase and explain:
 
